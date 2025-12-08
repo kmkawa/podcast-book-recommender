@@ -14,4 +14,6 @@ Link to book data: https://drive.google.com/file/d/1zDpeQRq4UMKoM83f958mxIK4hxdY
 
 ## Figure reproducibility
 
-'blog_figures/cosine_book.png', 'blog_figures/cosine_podcast.png', 'blog_figures/euclidean_book.png', 'blog_figures/euclidean_podcast.png', and 'blog_figures/time_trials.png' were all produced from Recommendations.ipynb under Experiments
+'blog_figures/cosine_book.png', 'blog_figures/cosine_podcast.png', 'blog_figures/euclidean_book.png', 'blog_figures/euclidean_podcast.png', and 'blog_figures/time_trials.png' were all produced from code in Recommendations.ipynb under Experiments
+
+'blog_figures/book_tSNE.png', 'blog_figures/podcast_tSNE.png' and 'blog_figures/book_and_pod_tSNE.png' were all produced from code in book_and_podcast_embedding_visualization.ipynb
