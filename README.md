@@ -11,3 +11,7 @@ Link to blog: https://docs.google.com/document/d/12CeQjQEv9j8VV-0CZWLNpv-PrQDg0x
 Link to podcast data: https://drive.google.com/file/d/10T5dTDKJfcMiIdPsgT4ySr73LKRn0RLj/view?usp=sharing
 
 Link to book data: https://drive.google.com/file/d/1zDpeQRq4UMKoM83f958mxIK4hxdYodgH/view?usp=sharing
+
+## Figure reproducibility
+
+'blog_figures/cosine_book.png', 'blog_figures/cosine_podcast.png', 'blog_figures/euclidean_book.png', 'blog_figures/euclidean_podcast.png', and 'blog_figures/time_trials.png' were all produced from Recommendations.ipynb under Experiments
